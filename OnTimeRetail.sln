@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTimeRetail", "OnTimeRetail\OnTimeRetail.csproj", "{8F167C16-D1EC-4AA8-AE98-E2A4422E1651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTimeInstaller", "OnTimeInstaller\OnTimeInstaller.csproj", "{54FDB433-427E-4345-B532-2E078EB08458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F167C16-D1EC-4AA8-AE98-E2A4422E1651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F167C16-D1EC-4AA8-AE98-E2A4422E1651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F167C16-D1EC-4AA8-AE98-E2A4422E1651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F167C16-D1EC-4AA8-AE98-E2A4422E1651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54FDB433-427E-4345-B532-2E078EB08458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FDB433-427E-4345-B532-2E078EB08458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FDB433-427E-4345-B532-2E078EB08458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FDB433-427E-4345-B532-2E078EB08458}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63C9632B-3460-4C6F-9D98-E7AEAE63A07C}
+	EndGlobalSection
+EndGlobal
